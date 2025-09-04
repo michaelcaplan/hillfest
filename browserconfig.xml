@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="https://cdn.glitch.global/6c91042a-5071-4731-aebd-88ce853f082c/mstile-150x150.png?v=1725462059264"/>
+            <TileColor>#c8bb98</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>

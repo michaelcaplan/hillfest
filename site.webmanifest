@@ -1,0 +1,19 @@
+{
+    "name": "Hill Fest - A Block Party For The Ages in Wolfville, Nova Scotia",
+    "short_name": "Hill Fest",
+    "icons": [
+        {
+            "src": "https://cdn.glitch.global/6c91042a-5071-4731-aebd-88ce853f082c/android-chrome-192x192.png?v=1725462201199",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn.glitch.global/6c91042a-5071-4731-aebd-88ce853f082c/android-chrome-512x512.png?v=1725462247890",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#c8bb98",
+    "background_color": "#c8bb98",
+    "display": "standalone"
+}
